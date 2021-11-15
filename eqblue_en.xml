@@ -1,0 +1,173 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">EQ Bluetooth</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="warning">Use Loudness Enhancer with Caution</string>
+    <string name="disableOther">Disable other Equalizers before enabling this</string>
+    <string name="bass_boost">Bass Boost</string>
+    <string name="enable_equalizer">Enable Equalizer</string>
+    <string name="presets">Presets</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="loudness">Loudness</string>
+    <string name="about">About</string>
+
+
+    <string name="settings">Settings</string>
+    <string name="support_summary">Thank you for Installing this app. If you liked my app and you think I deserve to get paid for my work, you can leave some money here.  Any purchase will remove ads.</string>
+    <string name="purchase_thanks">Thank you for Purchasing. All Ads are removed.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="licenses">Licenses</string>
+    <string name="report_bugs">Report Bugs</string>
+    <string name="fork_on_github">Fork on GitHub</string>
+    <string name="any_donation_will_remove_the_ads">Any donation will remove the ads.</string>
+    <string name="donate">Donate</string>
+    <string name="leave_a_positive_rating_on_google_play">Leave a positive rating on Google Play.</string>
+    <string name="rate">Rate</string>
+    <string name="an_open_source_light_weight_equalizer_for_all_devices">An Open Source, Light Weight Equalizer for all devices.</string>
+    <string name="preset_name">Preset Name</string>
+    <string name="purchased_successfully">Purchased Successfully</string>
+    <string name="eq_is_enabled">Equalizer is enabled</string>
+    <string name="load_preset">Load Preset</string>
+    <string name="preset_deleted_successfully">Preset deleted Successfully</string>
+    <string name="delete_preset">Delete Preset</string>
+    <string name="please_save_preset">Please save a Preset first</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_as_preset">Save As Preset</string>
+    <string name="save">SAVE</string>
+    <string name="please_enter_preset">Please Enter the Name of the Preset</string>
+    <string name="preset_saved_successfully">Preset Saved Successfully</string>
+       <string name="dsfx_on">Enable DSFX</string>
+    <string name="settings_dsfx">Settings</string>
+    <string name="change_headphone">Headphone</string>
+    <string name="konek">Speaker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="amplitude">Amplitude</string>
+    <string name="xtrible">Xtrible</string>
+    <string name="powerbass">PowerBass</string>
+    <string name="xbass">XBass</string>
+    <string name="outgain">Out Gain</string>
+    <string name="search_hint">search</string>
+    <string name="disable_equalizer">Disable Equalizer</string>
+    <string name="dsfx_off">Disable DSFX</string>
+    <string name="speaker">Speaker</string>
+    <string name="headset">Headset</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="info">Help</string>
+    <string name="info_warning"> Info:\n\nIf the Equalizer doesn\'t work on the switch panel turn it off and exit the app / Restart App  .\n\n Multiple Equalizer Apps:\n\nMake sure that other audio effect apps installed on your device cannot be uninstalled / uninstalled or Equalizer might not get full control over the equalizer.\n\nIf there are other Equalizer applications, please disable / force stop / uninstall it manually.\n</string>
+    <string name="restart_app">Restart APP</string>
+    <string name="headphone_model">Headphone Model</string>
+    <string name="surround">Surround</string>
+    <string name="info_delete_all">Are you sure?</string>
+    <string name="deleteall_preset">Delete all Preset</string>
+    <string name="yes">Yes</string>
+    <string name="dsfx_timer">Trial Mode:DSFX OFF!</string>
+    <string name="channel_balance">Channel Balance</string>
+    <string name="channel_gain_left">Channel gain left</string>
+    <string name="channel_gain_right">Channel gain right</string>
+    <string name="channel_disable">Disable Channel</string>
+    <string name="channel_enable">Enable Channel</string>
+    <string name="amp_disable">please trun off Channel Balance</string>
+    <string name="amp_off">Disable Amplitude</string>
+    <string name="trial_info_dsfx">Trial Version</string>
+    <string name="info_isi_dsfx">You will be using the free trial of the DSFX Effects feature for 5 minutes.\n\nOr Pay to Pro Version and activate all features forever and motivate us to work hard to further improve the product\n\nNote: When the trial time is over, you can turn it back on </string>
+    <string name="buy_pro">Buy Pro</string>
+    <string name="open_player">Open Another Music Player</string>
+    <string name="title_open_music_player">Open Music Player</string>
+
+    <!-- TODO: Config ETTING -->
+    <string name="apps">Apps</string>
+    <string name="custom">Custom</string>
+    <string name="drak_theme_title">Drak theme setting</string>
+    <string name="switch_drak_theme">Switch to drak theme</string>
+    <string name="language_title">Switch language</string>
+    <string name="language_desk">Chose your preferred language</string>
+    <string name="floating_windows_desk">Show floating window theme</string>
+    <string name="title_floating_windows">Floating window</string>
+    <string name="title_floating_button">Floating button</string>
+    <string name="floating_button_desk">Show floating button on minimize</string>
+    <string name="visualizer">Visualizer</string>
+    <string name="edge_lighting">Edge lighting</string>
+    <string name="edge_lighting_desk">Colorful borderlight</string>
+    <string name="stars_anima">Stars live</string>
+    <string name="stars_anima_title">Cool stars live wallpaper</string>
+    <string name="title_loud_strong">Loud strong</string>
+    <string name="loud_strong_desk">Get loud Max</string>
+    <string name="enable_edge">Enable Edge</string>
+    <string name="edge_lighting_title">Edge Lighthing</string>
+    <string name="radian">Radian</string>
+    <string name="width_edge">Width</string>
+    <string name="speed_edge">Speed</string>
+    <string name="color_edge">Lamp Color</string>
+    <string name="visit_more_app">Visit more app</string>
+    <string name="app_by">Please visit our developer page</string>
+    <string name="changelog">Changelog</string>
+    <string name="changelog_desk">Check Last updated</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_desk">Report bugs / Request new function</string>
+    <string name="licenses_desk">Open source licenses</string>
+    <string name="legal_info">Legal information</string>
+    <string name="pro_version_title">Pro verison</string>
+    <string name="pro_version_desk">Buy pro active all features forever</string>
+    <string name="donate_desk">Motivate us to work hard to further improve the product</string>
+    <string name="buy_notif">Please buy pro</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="dsfx_info">The DSFX effect gives you 2x audio sound enhancement experience. This is a new level of experience.\n\n Only support on certain devices</string>
+    <string name="dsfx_info_title">DSFX Info</string>
+    <string name="vibra_title">Vibrator</string>
+    <string name="vibra_desk">Feel the finger vibrator</string>
+
+
+    <!-- TODO: Config LANGUA NO TRANSLE -->
+    <string name="lang_sys">System language</string>
+    <string name="lang_englis">English</string>
+    <string name="lang_rusia">Pусский</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_spanyol">Español</string>
+    <string name="lang_francis">Français</string>
+    <string name="lang_hindi">हिंदी</string>
+    <string name="lang_portugis">Português</string>
+    <string name="lang_china">中国人</string>
+    <string name="lang_arab">عربي</string>
+    <string name="lang_indo">Bahasa</string>
+
+
+    <string name="title_pro_lay">WHAT YOU WILL GET</string>
+    <string name="unlock_lay">Unlock All Features</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="desk_app_pay">Thank you for Installing this app. If you like my app and you think I deserve to be paid for my work, you can leave some money here. Every purchase will remove ads and unlock all features.</string>
+    <string name="title_chose_price">CHOSE YOUR PRICE</string>
+    <string name="ready_paid">Already payed for EQ Bluetooth?</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    <string name="pay_pro">Pay </string>
+    <string name="paid_ok">Paid ✔️</string>
+    <string name="info_isi_sukses">Dear Buyer,\n\n
+We are lucky to have you…\n\n
+Thank you very much for your support.\n\n
+We appreciate you!\n\n
+Cheers</string>
+    <string name="donate_desk2">Thank you for Installing this app. You can leave money here.\n\n
+Motivate us to work hard to further improve the product</string>
+    <string name="info_isi_sukses_donate">Dear Buyer,\n\n
+Thanks again for your donation.\n\n
+We appreciate you!\n\n
+Cheers</string>
+    <string name="not_found_product">Not Found Product</string>
+    <string name="product_found">You Have Product\n\n Restore Successfully  </string>
+    <string name="exit">Exit</string>
+    <string name="rate_hiden">Dont Show Again Forever</string>
+    <string name="permioson_floating_title">Your phone is not granted Display Draw over other apps permission</string>
+    <string name="permioson_floating_toas">Draw over other apps permission not available.</string>
+    <string name="hiden_ads">Hide</string>
+    <string name="Install_ads">Install</string>
+    <string name="visit_web">Visit</string>
+    <string name="Install_ads_play">Install on Google Play</string>
+    <string name="exit_activity">Good Bye...</string>
+    <string name="app_name_title">Equalizer</string>
+    <string name="connect_audio">EQ Connected Audio</string>
+    <string name="tap_more">Tap More</string>
+    <string name="device_not_supported">device not supported</string>
+
+
+</resources>
